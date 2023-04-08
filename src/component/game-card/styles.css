@@ -1,0 +1,13 @@
+.game-card {
+    border: 1px solid #eaeef5;
+    border-radius: 15px;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(97, 116, 224);
+    padding: 32px;
+    
+  }

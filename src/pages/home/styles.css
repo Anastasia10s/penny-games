@@ -1,0 +1,13 @@
+.game--selection {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.social_media {
+    float: center;
+  padding: 5px 5px;
+}
+
+
+

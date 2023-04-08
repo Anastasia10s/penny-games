@@ -1,0 +1,13 @@
+#copywright_sign_date {
+    padding: 5px 5px;
+  }
+  
+  .footer_links {
+    padding: 5px 5px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+  }
+
